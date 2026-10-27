@@ -1,0 +1,32 @@
+<?php
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\{SignupController,AuthController,QuoteController,HealthResourceController,InterestController,CollectionController,ReportController};
+Route::get('/',[QuoteController::class,'index'])->name('quotes.index');
+Route::get('/resources',[HealthResourceController::class,'index'])->name('resources.index');
+Route::middleware('guest')->group(function(){
+ Route::get('/login',[AuthController::class,'showLogin'])->name('login');
+ Route::post('/login',[AuthController::class,'login'])->middleware('throttle:10,1')->name('login.store');
+ Route::get('/signup',[SignupController::class,'create'])->name('signup');
+ Route::post('/signup',[SignupController::class,'store'])->middleware('throttle:10,1')->name('signup.store');
+});
+Route::middleware('auth')->group(function(){
+ Route::post('/logout',[AuthController::class,'logout'])->name('logout');
+ Route::post('/quotes',[QuoteController::class,'store'])->middleware('throttle:60,1')->name('quotes.store');
+ Route::get('/quotes/{quote}/edit',[QuoteController::class,'edit'])->name('quotes.edit');
+ Route::put('/quotes/{quote}',[QuoteController::class,'update'])->name('quotes.update');
+ Route::delete('/quotes/{quote}',[QuoteController::class,'destroy'])->name('quotes.destroy');
+ Route::post('/quotes/{quote}/like',[QuoteController::class,'toggleLike'])->name('quotes.like');
+ Route::post('/quotes/{quote}/save',[QuoteController::class,'toggleSave'])->name('quotes.save');
+ Route::get('/interests',[InterestController::class,'edit'])->name('interests.edit');
+ Route::put('/interests',[InterestController::class,'update'])->name('interests.update');
+ Route::get('/collections',[CollectionController::class,'index'])->name('collections.index');
+ Route::post('/collections',[CollectionController::class,'store'])->name('collections.store');
+ Route::get('/collections/{collection}',[CollectionController::class,'show'])->name('collections.show');
+ Route::put('/collections/{collection}',[CollectionController::class,'update'])->name('collections.update');
+ Route::delete('/collections/{collection}',[CollectionController::class,'destroy'])->name('collections.destroy');
+ Route::post('/collections/{collection}/quotes',[CollectionController::class,'add'])->name('collections.add');
+ Route::delete('/collections/{collection}/quotes/{quote}',[CollectionController::class,'remove'])->name('collections.remove');
+ Route::get('/quotes/{quote}/report',[ReportController::class,'create'])->name('reports.create');
+ Route::post('/quotes/{quote}/report',[ReportController::class,'store'])->middleware('throttle:5,1')->name('reports.store');
+ Route::get('/reports',[ReportController::class,'index'])->name('reports.index');
+});
