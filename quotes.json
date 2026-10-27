@@ -1,0 +1,920 @@
+[
+  {
+    "legacy_content": "اجعل طبقك متنوعًا، ووازن بين الخضروات والفواكه والحبوب الكاملة ومصادر البروتين.",
+    "content": "Vary your plate with vegetables, fruit, whole grains and sources of protein.",
+    "category": "Nutrition",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اختر نشاطًا بدنيًا يناسب قدراتك، واجعله عادة منتظمة في أسبوعك.",
+    "content": "Choose physical activity that suits your abilities and make it part of your week.",
+    "category": "Physical activity",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "ثبّت وقت النوم والاستيقاظ قدر الإمكان لدعم روتين نوم صحي.",
+    "content": "Keep consistent bedtimes and waking times when possible to support healthy sleep.",
+    "category": "Sleep",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "العناية بالصحة النفسية جزء أساسي من العناية بالصحة العامة.",
+    "content": "Caring for mental wellbeing is part of caring for your overall health.",
+    "category": "Mental wellbeing",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "استقِ معلوماتك الصحية من المصادر الرسمية والموثوقة قبل مشاركة النصائح.",
+    "content": "Check official, reliable health sources before sharing advice.",
+    "category": "Prevention",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "لا توقف الدواء الموصوف أو تغيّر جرعته دون الرجوع إلى الطبيب المعالج.",
+    "content": "Do not stop prescribed medicine or change the dose without consulting your doctor.",
+    "category": "Diabetes",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "متابعة ضغط الدم وفق إرشادات المختص تساعد على فهم القراءات مع مرور الوقت.",
+    "content": "Tracking blood pressure as advised helps you understand readings over time.",
+    "category": "Blood pressure",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "الابتعاد عن التدخين ودخانه يدعم صحة القلب والرئتين.",
+    "content": "Avoiding smoking and secondhand smoke supports heart and lung health.",
+    "category": "Smoking",
+    "source_name": "World Health Organization",
+    "source_url": "https://www.who.int/news-room/fact-sheets",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اجعل العناية اليومية بالفم والأسنان جزءًا ثابتًا من روتينك الصحي.",
+    "content": "Make daily oral care a regular part of your health routine.",
+    "category": "Oral health",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اسأل المختص عن اللقاحات والفحوصات الوقائية المناسبة لعمرك وحالتك.",
+    "content": "Ask a professional about vaccinations and preventive checks suitable for you.",
+    "category": "Family health",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "قلّل المشروبات المحلّاة تدريجيًا واختر الماء غالبًا.",
+    "content": "Reduce sweetened drinks gradually and choose water most often.",
+    "category": "Nutrition",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "نوّع مصادر البروتين بدل الاعتماد على نوع واحد من الطعام.",
+    "content": "Vary your protein sources rather than relying on one type of food.",
+    "category": "Nutrition",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اقرأ الملصق الغذائي لتقارن كمية السكر والملح والدهون المشبعة.",
+    "content": "Read food labels to compare sugar, salt and saturated fat.",
+    "category": "Nutrition",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اجعل الخضروات والفواكه جزءًا متكررًا من وجباتك اليومية.",
+    "content": "Include vegetables and fruit regularly in your daily meals.",
+    "category": "Nutrition",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "ابدأ الحركة تدريجيًا واختر نشاطًا تستمتع بممارسته.",
+    "content": "Start moving gradually and choose an activity you enjoy.",
+    "category": "Physical activity",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "قسّم وقت الجلوس الطويل بفترات قصيرة من الوقوف والحركة.",
+    "content": "Break up long periods of sitting with short periods of standing and movement.",
+    "category": "Physical activity",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اجعل المشي خيارًا عمليًا عندما تسمح ظروفك الصحية والبيئية.",
+    "content": "Choose walking when your health and surroundings allow it.",
+    "category": "Physical activity",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "استشر مختصًا قبل تغيير مستوى التمارين إذا كانت لديك حالة صحية مزمنة.",
+    "content": "Consult a professional before changing exercise levels if you have a chronic condition.",
+    "category": "Physical activity",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "خفف استخدام الشاشات قبل موعد النوم إذا كانت تؤثر في راحتك.",
+    "content": "Reduce screen use before bed if it interferes with your rest.",
+    "category": "Sleep",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "هيّئ غرفة النوم لتكون هادئة ومريحة قدر الإمكان.",
+    "content": "Make your bedroom as quiet and comfortable as possible.",
+    "category": "Sleep",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "راقب العادات التي تحسن نومك وناقش الأرق المستمر مع مختص.",
+    "content": "Notice habits that improve your sleep and discuss persistent insomnia with a professional.",
+    "category": "Sleep",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "امنح جسمك وقتًا كافيًا للراحة بدل الاعتماد على السهر المتكرر.",
+    "content": "Allow enough time for rest instead of repeatedly staying up late.",
+    "category": "Sleep",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "تحدث مع شخص موثوق عندما تشعر بالحاجة إلى الدعم.",
+    "content": "Talk with someone you trust when you need support.",
+    "category": "Mental wellbeing",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "خذ فترات راحة قصيرة عندما تتراكم عليك المهام.",
+    "content": "Take short breaks when tasks begin to pile up.",
+    "category": "Mental wellbeing",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "طلب المساعدة المتخصصة علامة على الاهتمام بنفسك وليس ضعفًا.",
+    "content": "Seeking professional support shows care for yourself, not weakness.",
+    "category": "Mental wellbeing",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "مارس نشاطًا مريحًا يساعدك على التعامل مع التوتر اليومي.",
+    "content": "Choose a relaxing activity that helps you manage everyday stress.",
+    "category": "Mental wellbeing",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اغسل يديك جيدًا في الأوقات المهمة للحد من انتقال العدوى.",
+    "content": "Wash your hands well at important times to help limit the spread of infection.",
+    "category": "Prevention",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "غطِّ الفم والأنف عند السعال أو العطاس واهتم بنظافة اليدين.",
+    "content": "Cover your mouth and nose when coughing or sneezing, and keep your hands clean.",
+    "category": "Prevention",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "تحقق من توصيات التطعيم المناسبة لك من جهة صحية رسمية.",
+    "content": "Check vaccination recommendations for you with an official health source.",
+    "category": "Prevention",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "لا تعتمد على منشور متداول وحده لاتخاذ قرار صحي مهم.",
+    "content": "Do not rely on a shared post alone when making an important health decision.",
+    "category": "Prevention",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "سجّل قياسات السكر وفق الخطة المتفق عليها مع فريقك الصحي.",
+    "content": "Record glucose readings according to the plan agreed with your healthcare team.",
+    "category": "Diabetes",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اسأل فريقك الصحي عن خطة واضحة للتعامل مع انخفاض السكر.",
+    "content": "Ask your healthcare team for a clear plan for managing low blood glucose.",
+    "category": "Diabetes",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "المتابعة الدورية تساعد على مراجعة خطة إدارة السكري عند الحاجة.",
+    "content": "Regular follow-up helps review your diabetes management plan when needed.",
+    "category": "Diabetes",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اختر وجبات متوازنة تناسب احتياجاتك بالتعاون مع مختص التغذية.",
+    "content": "Choose balanced meals that suit your needs with help from a dietitian.",
+    "category": "Diabetes",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اجلس بهدوء واتبع تعليمات الجهاز قبل قياس ضغط الدم في المنزل.",
+    "content": "Sit quietly and follow the device instructions before measuring blood pressure at home.",
+    "category": "Blood pressure",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "دوّن قراءات الضغط وشارك سجلها مع الطبيب في موعد المتابعة.",
+    "content": "Record blood pressure readings and share them with your doctor at follow-up visits.",
+    "category": "Blood pressure",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "خفف الملح في الطعام تدريجيًا ضمن نمط غذائي متوازن.",
+    "content": "Reduce salt gradually as part of a balanced eating pattern.",
+    "category": "Blood pressure",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/healthylifestyle/Pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "لا تغيّر علاج ضغط الدم اعتمادًا على قراءة واحدة دون استشارة الطبيب.",
+    "content": "Do not change blood pressure treatment based on one reading without consulting your doctor.",
+    "category": "Blood pressure",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/awarenessplateform/varioustopics/pages/live-well.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "ابتعد عن الأماكن المليئة بالدخان لحماية نفسك ومن حولك.",
+    "content": "Avoid smoke-filled places to protect yourself and those around you.",
+    "category": "Smoking",
+    "source_name": "World Health Organization",
+    "source_url": "https://www.who.int/news-room/fact-sheets",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اطلب دعمًا صحيًا موثوقًا إذا رغبت في الإقلاع عن التدخين.",
+    "content": "Seek reliable health support if you want to stop smoking.",
+    "category": "Smoking",
+    "source_name": "World Health Organization",
+    "source_url": "https://www.who.int/news-room/fact-sheets",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "الإقلاع عن التدخين مفيد للصحة في مختلف الأعمار.",
+    "content": "Stopping smoking benefits health at different ages.",
+    "category": "Smoking",
+    "source_name": "World Health Organization",
+    "source_url": "https://www.who.int/news-room/fact-sheets",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اجعل منزلك وسيارتك خاليين من دخان التبغ.",
+    "content": "Keep your home and car free from tobacco smoke.",
+    "category": "Smoking",
+    "source_name": "World Health Organization",
+    "source_url": "https://www.who.int/news-room/fact-sheets",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "نظّف أسنانك بانتظام بمعجون يحتوي على الفلورايد وفق الإرشادات.",
+    "content": "Clean your teeth regularly with fluoride toothpaste as recommended.",
+    "category": "Oral health",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "راجع طبيب الأسنان عند استمرار الألم أو النزيف أو ظهور مشكلة جديدة.",
+    "content": "See a dentist for persistent pain, bleeding or a new problem.",
+    "category": "Oral health",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "قلّل تكرار تناول السكريات للمساعدة في حماية الأسنان.",
+    "content": "Reduce how often you have sugary foods to help protect your teeth.",
+    "category": "Oral health",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "الفحص الدوري يساعد على اكتشاف مشكلات الفم مبكرًا.",
+    "content": "Regular dental checks can help find oral problems early.",
+    "category": "Oral health",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "احتفظ بقائمة محدثة بأدويتك وشاركها مع مقدم الرعاية الصحية.",
+    "content": "Keep an up-to-date medicine list and share it with your healthcare provider.",
+    "category": "Family health",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اسأل الطبيب أو الصيدلي قبل الجمع بين الأدوية والمكملات.",
+    "content": "Ask a doctor or pharmacist before combining medicines and supplements.",
+    "category": "Family health",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اطلب المساعدة الطبية العاجلة عند ظهور أعراض خطيرة أو مفاجئة.",
+    "content": "Seek urgent medical help for serious or sudden symptoms.",
+    "category": "Family health",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "استعد للموعد الطبي بكتابة أسئلتك والأعراض التي لاحظتها.",
+    "content": "Prepare for appointments by writing down your questions and symptoms.",
+    "category": "Family health",
+    "source_name": "Saudi Ministry of Health",
+    "source_url": "https://www.moh.gov.sa/en/pages/default.aspx",
+    "source_type": "official",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "معرفة محفزات الربو تساعدك على تجنبها.",
+    "content": "Knowing your asthma triggers can help you avoid them.",
+    "category": "Asthma",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "ضع خطة مكتوبة للربو مع طبيبك واحتفظ بها قريبة.",
+    "content": "Create a written asthma plan with your doctor and keep it nearby.",
+    "category": "Asthma",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اليوم الهادئ لا يعني إيقاف الدواء الوقائي الموصوف.",
+    "content": "A calm day does not mean stopping prescribed preventive medicine.",
+    "category": "Asthma",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اسأل مختصك عن الطريقة الصحيحة لاستخدام البخاخ.",
+    "content": "Ask your healthcare professional about correct inhaler technique.",
+    "category": "Asthma",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "دوّن وقت السعال أو الصفير لتتعرف على نمط الأعراض.",
+    "content": "Record when coughing or wheezing happens to help identify symptom patterns.",
+    "category": "Asthma",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "الابتعاد عن الدخان خطوة مهمة للعناية بالتنفس.",
+    "content": "Avoiding smoke is an important step in caring for your breathing.",
+    "category": "Asthma",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "احتفظ بدواء الإغاثة السريع وفق إرشادات طبيبك.",
+    "content": "Keep quick-relief medicine available as directed by your doctor.",
+    "category": "Asthma",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "إذا أيقظتك الأعراض ليلًا، راجع خطة الربو مع طبيبك.",
+    "content": "If symptoms wake you at night, review your asthma plan with your doctor.",
+    "category": "Asthma",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "يمكنك الاستمتاع بالحركة عندما تضبط الربو بخطة مناسبة.",
+    "content": "You can enjoy movement when asthma is managed with a suitable plan.",
+    "category": "Asthma",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "أخبر من تثق بهم كيف يساعدونك إذا اشتدت الأعراض.",
+    "content": "Tell people you trust how to help if your symptoms worsen.",
+    "category": "Asthma",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "المراجعة الدورية فرصة لتحديث خطة الربو حتى وأنت بخير.",
+    "content": "Regular reviews are a chance to update your asthma plan even when you feel well.",
+    "category": "Asthma",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "إذا احتجت بخاخ الإغاثة أكثر من المعتاد، ناقش ذلك مع مختص.",
+    "content": "Discuss needing your reliever inhaler more often than usual with a professional.",
+    "category": "Asthma",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "صعوبة التنفس الشديدة تستدعي مساعدة طبية عاجلة.",
+    "content": "Severe breathing difficulty needs urgent medical help.",
+    "category": "Asthma",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "العناية بالسكري رحلة خطوات صغيرة، لا يوم مثالي واحد.",
+    "content": "Caring for diabetes is a journey of small steps, not one perfect day.",
+    "category": "Diabetes",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "قياس السكر وفق خطتك يساعدك على فهم ما يؤثر في قراءاتك.",
+    "content": "Checking glucose according to your plan helps you understand what affects readings.",
+    "category": "Diabetes",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "حدد أهداف السكر المناسبة لك مع فريقك الصحي.",
+    "content": "Agree on glucose targets that suit you with your healthcare team.",
+    "category": "Diabetes",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "تناول دواءك كما وُصف لك حتى عندما تشعر بتحسن.",
+    "content": "Take medicine as prescribed, even when you feel better.",
+    "category": "Diabetes",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اختيار الماء بدل المشروبات المحلاة عادة صغيرة مفيدة.",
+    "content": "Choosing water instead of sweetened drinks is a small, helpful habit.",
+    "category": "Diabetes",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "وجبة متوازنة يمكن أن تكون بسيطة ولذيذة في الوقت نفسه.",
+    "content": "A balanced meal can be simple and enjoyable at the same time.",
+    "category": "Diabetes",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اختر حركة تناسبك وناقشها مع طبيبك إذا كنت معرضًا لانخفاض السكر.",
+    "content": "Choose movement that suits you and discuss it with your doctor if low glucose is a risk.",
+    "category": "Diabetes",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "سجل قراءاتك ونشاطك لتلاحظ الأنماط، لا لتحاسب نفسك.",
+    "content": "Record readings and activity to notice patterns, not to judge yourself.",
+    "category": "Diabetes",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "لا تواجه إدارة السكري وحدك؛ اطلب الدعم عندما تحتاجه.",
+    "content": "You do not have to manage diabetes alone; ask for support when you need it.",
+    "category": "Diabetes",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "المراجعات الدورية مهمة حتى عندما تبدو القراءات مطمئنة.",
+    "content": "Regular check-ups matter even when readings seem reassuring.",
+    "category": "Diabetes",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "امنح الراحة والنوم مكانًا في خطة العناية اليومية.",
+    "content": "Make room for rest and sleep in your daily care plan.",
+    "category": "Diabetes",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اسأل عن برامج التثقيف الذاتي للسكري لتتعلم مهارات تناسبك.",
+    "content": "Ask about diabetes self-management education to learn skills that suit you.",
+    "category": "Diabetes",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "ضع مع فريقك الصحي خطة واضحة للتعامل مع انخفاض السكر.",
+    "content": "Agree on a clear plan for low blood glucose with your healthcare team.",
+    "category": "Diabetes",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "ضغط الدم رقم يُقاس؛ لا تعتمد على شعورك وحده.",
+    "content": "Blood pressure is measured; do not rely on how you feel alone.",
+    "category": "Blood pressure",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "القياس المنزلي المنتظم يساعدك أنت وطبيبك على رؤية الصورة الأوسع.",
+    "content": "Regular home measurements help you and your doctor see the bigger picture.",
+    "category": "Blood pressure",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اختر جهاز قياس للذراع بكفة مناسبة لحجمك.",
+    "content": "Choose an upper-arm blood pressure monitor with a cuff that fits you.",
+    "category": "Blood pressure",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "اجلس بهدوء خمس دقائق قبل قياس الضغط، وأسند ذراعك.",
+    "content": "Sit quietly for five minutes before measuring blood pressure and support your arm.",
+    "category": "Blood pressure",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "دوّن قراءات الضغط ووقت قياسها لتناقشها مع طبيبك.",
+    "content": "Record blood pressure readings and the time to discuss them with your doctor.",
+    "category": "Blood pressure",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "قراءة واحدة لا تختصر القصة؛ أعد القياس وفق الإرشادات.",
+    "content": "One reading is not the whole story; repeat measurements as instructed.",
+    "category": "Blood pressure",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "تقليل الملح تدريجيًا قد يجعل الطعام الصحي عادة أسهل.",
+    "content": "Reducing salt gradually may make healthier eating easier to maintain.",
+    "category": "Blood pressure",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "ابدأ بحركة منتظمة تناسب قدرتك وظروفك الصحية.",
+    "content": "Start regular movement that suits your abilities and health circumstances.",
+    "category": "Blood pressure",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "لا توقف دواء الضغط بسبب قراءة واحدة دون الرجوع لطبيبك.",
+    "content": "Do not stop blood pressure medicine because of one reading without speaking to your doctor.",
+    "category": "Blood pressure",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "الابتعاد عن التدخين قرار مهم لصحة القلب والأوعية.",
+    "content": "Avoiding tobacco is an important choice for heart and blood vessel health.",
+    "category": "Blood pressure",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "ضع جهاز القياس حيث يذكرك بموعد المتابعة المعتاد.",
+    "content": "Keep your monitor somewhere that reminds you of your usual measurement time.",
+    "category": "Blood pressure",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "شارك سجل القراءات مع طبيبك لاتخاذ قرارات مبنية على المتابعة.",
+    "content": "Share your reading log with your doctor to support follow-up decisions.",
+    "category": "Blood pressure",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "ارتفاع الضغط الشديد مع ألم صدر أو ضيق نفس يحتاج إسعافًا عاجلًا.",
+    "content": "Very high blood pressure with chest pain or breathlessness needs urgent medical help.",
+    "category": "Blood pressure",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "العناية بصحتك النفسية جزء من العناية بصحتك كلها.",
+    "content": "Caring for your mental health is part of caring for your whole health.",
+    "category": "Mental wellbeing",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "تسمية ما تشعر به قد تكون بداية لفهمه بلطف.",
+    "content": "Naming what you feel can be a gentle first step towards understanding it.",
+    "category": "Mental wellbeing",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "لا تحمل كل شيء وحدك؛ تحدث مع شخص تثق به.",
+    "content": "You do not have to carry everything alone; talk to someone you trust.",
+    "category": "Mental wellbeing",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "الراحة جزء من يوم متوازن، وليست مكافأة مؤجلة.",
+    "content": "Rest is part of a balanced day, not a reward to postpone.",
+    "category": "Mental wellbeing",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "عندما يزدحم ذهنك، توقف ولاحظ تنفسك وما حولك.",
+    "content": "When your mind feels crowded, pause and notice your breathing and surroundings.",
+    "category": "Mental wellbeing",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "خطوة صغيرة واقعية اليوم أفضل من خطة مثالية مؤجلة.",
+    "content": "One small, realistic step today is better than an endlessly postponed perfect plan.",
+    "category": "Mental wellbeing",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "التواصل مع من تحب قد يخفف شعور العزلة.",
+    "content": "Connecting with people you love may ease feelings of isolation.",
+    "category": "Mental wellbeing",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "إذا زادت الأخبار توترك، امنح نفسك وقتًا بعيدًا عنها.",
+    "content": "If the news increases your stress, give yourself time away from it.",
+    "category": "Mental wellbeing",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "مشي قصير أو حركة لطيفة قد يساعدانك على استعادة هدوئك.",
+    "content": "A short walk or gentle movement may help you feel calmer.",
+    "category": "Mental wellbeing",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "حاول تثبيت وقت نومك قدر الإمكان؛ الروتين يساند الراحة.",
+    "content": "Keep a consistent sleep schedule when possible; routine can support rest.",
+    "category": "Mental wellbeing",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "تحدث إلى نفسك بلطف، خصوصًا في الأيام الصعبة.",
+    "content": "Speak kindly to yourself, especially on difficult days.",
+    "category": "Mental wellbeing",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "إذا استمر الضيق أو أثر في حياتك، فطلب دعم مختص خطوة مناسبة.",
+    "content": "If distress persists or affects your life, seeking professional support is a reasonable step.",
+    "category": "Mental wellbeing",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  },
+  {
+    "legacy_content": "إذا خفت أن تؤذي نفسك أو غيرك، اطلب مساعدة طارئة فورًا.",
+    "content": "If you fear you may harm yourself or someone else, seek emergency help immediately.",
+    "category": "Mental wellbeing",
+    "source_name": "Aura Quotes",
+    "source_url": null,
+    "source_type": "system",
+    "is_verified": true
+  }
+]
