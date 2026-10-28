@@ -12,7 +12,7 @@ WORKDIR /var/www/html
 
 # The uploaded release contains the complete application directory tree.
 # Accept either a rootless ZIP or a ZIP with one enclosing project folder.
-COPY AuraQuotes_Render_Beta.zip /tmp/aura-source.zip
+COPY AuraQuotes_Render_Beta222 /tmp/aura-source.zip
 RUN unzip -q /tmp/aura-source.zip -d /tmp/aura-release \
     && source_dir="$(dirname "$(find /tmp/aura-release -maxdepth 3 -type f -name artisan -print -quit)")" \
     && test -f "$source_dir/composer.lock" \
