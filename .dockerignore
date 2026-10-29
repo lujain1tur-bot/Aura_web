@@ -14,3 +14,4 @@ storage/framework/views/*
 storage/logs/*
 *.zip
 !AuraQuotes_Render_Beta.zip
+!AuraQuotes_Fixed.zip
